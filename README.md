@@ -9,11 +9,11 @@ Já fiz diversos cursos para me tornar um front-end um dia, sobre os assuntos: h
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, Golang, C##, javascript, php**
+  🦄 Python, Golang, C##, javascript, php
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCode, Dbeaver, Oracle, QlikSense, Power BI, GA4, Indesign, Illustrator, Figma, Photoshop,**
+  💼 VSCode, Dbeaver, Oracle, QlikSense, Power BI, GA4, Indesign, Illustrator, Figma, Photoshop
 </p>
 
 <p align="left">
