@@ -10,7 +10,7 @@ Tenho 27 anos e sou um apaixonado por Dados e desenvolvimento. Trabalho atualmen
 Além disso, sou desenvolvedor Python. Processos automatizados tornam o trabalho mais eficiente e divertido não é mesmo?
 Sou apaixonado por ficcão cientifica e meu jogo preferido é Cyberpunk 2077.<br>
 Quando não estou mergulhado em dados ou escrevendo código, estou imerso no meu novo universo favorito: Front End.
-Já fiz diversos cursos para me tornar um front-end um dia, sobre os assuntos: html, css, c##, javascript, fora cursos sobre ferramentas específicas como Indesign, Figma, e outros.
+Já fiz diversos cursos para tornar o front-end mais que um hobby, sobre os assuntos: html, css, c##, javascript, fora cursos sobre ferramentas específicas como Indesign, Figma, e outros.
 </p>
 
 <p align="left">
