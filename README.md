@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Tenho 27 anos e sou um apaixonado por Dados e desenvolvimento. Trabalho atualmente, como analista de dados. 
+Tenho 29 anos e sou um apaixonado por Dados e desenvolvimento. Trabalho atualmente, como analista de dados. 
 Além disso, sou desenvolvedor Python. Processos automatizados tornam o trabalho mais eficiente e divertido não é mesmo?
 Sou apaixonado por ficcão cientifica e meu jogo preferido é Cyberpunk 2077.<br>
 Quando não estou mergulhado em dados ou escrevendo código, estou aprendendo Front End.
@@ -33,4 +33,5 @@ Quando não estou mergulhado em dados ou escrevendo código, estou aprendendo Fr
   <a href="https://www.instagram.com/marlon.benda/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/marlon.benda/" alt="Instagram"/></a>
 </p>
+
 
